@@ -15,7 +15,6 @@ Clean and user-friendly interface
 <br>
 . JavaScript
 <br>
-# Purpose:
 This project was created as part of my web development learning journey to practice DOM manipulation, event handling, and logic building in JavaScript.
 
 | Created by: Javeria Tariq

@@ -8,8 +8,11 @@ Clean and user-friendly interface
 "Copy to Clipboard" functionality for easy password use
 
 # Technologies Used:
+<br>
 . HTML
-. CSS3
+<br>
+. CSS
+<br>
 . JavaScript
 # Purpose:
 This project was created as part of my web development learning journey to practice DOM manipulation, event handling, and logic building in JavaScript.

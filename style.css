@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: rgb(10, 54, 57);
+    color: white;
+}
+
+.container{
+            margin: 12%;
+            width: 90%;
+           max-width: 700px;
+
+}
+.display{
+         width: 90%;
+          margin-top: 50px;
+          margin-bottom: 30px;
+           display: flex;
+           align-items: center;
+           justify-content: space-between;
+           padding: 26px 20px;
+           border-radius: 5px;
+           background-color: #fff;
+           color: #333;
+           margin-bottom: 30px;
+}
+.container h1{
+ font-weight: 500;
+ font-size: 45px;
+}
+.container h1 span{
+    color: #019f55;
+   
+}
+#password{
+    border: 0;
+    outline: 0;
+    font-size: 24px;
+}
+.fa-copy{
+font-size: 30px;
+}
+button{
+    width:30%;
+    height: 50px;
+    background-color: #019f55;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: large;
+    font-weight: 400;
+    cursor: pointer;
+}
+
